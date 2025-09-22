@@ -1,0 +1,87 @@
+country,iso2,continent,lat,lon,capital,capital_lat,capital_lon,region
+United States,US,North America,37.0902,-95.7129,Washington D.C.,38.9072,-77.0369,Northern America
+Canada,CA,North America,56.1304,-106.3468,Ottawa,45.4215,-75.6972,Northern America
+Mexico,MX,North America,23.6345,-102.5528,Mexico City,19.4326,-99.1332,Central America
+Brazil,BR,South America,-14.2350,-51.9253,Brasília,-15.7939,-47.8828,Eastern South America
+Argentina,AR,South America,-38.4161,-63.6167,Buenos Aires,-34.6037,-58.3816,Southern South America
+United Kingdom,GB,Europe,55.3781,-3.4360,London,51.5074,-0.1278,Western Europe
+France,FR,Europe,46.2276,2.2137,Paris,48.8566,2.3522,Western Europe
+Germany,DE,Europe,51.1657,10.4515,Berlin,52.5200,13.4050,Western Europe
+Italy,IT,Europe,41.8719,12.5674,Rome,41.9028,12.4964,Southern Europe
+Spain,ES,Europe,40.4637,-3.7492,Madrid,40.4168,-3.7038,Southern Europe
+Russia,RU,Europe,61.5240,105.3188,Moscow,55.7558,37.6173,Eastern Europe
+Turkey,TR,Asia,38.9637,35.2433,Ankara,39.9334,32.8597,Western Asia
+Egypt,EG,Africa,26.8206,30.8025,Cairo,30.0444,31.2357,Northern Africa
+Nigeria,NG,Africa,9.0820,8.6753,Abuja,9.0765,7.3986,Western Africa
+South Africa,ZA,Africa,-30.5595,22.9375,Pretoria,-25.7479,28.2293,Southern Africa
+Kenya,KE,Africa,-0.0236,37.9062,Nairobi,-1.2921,36.8219,Eastern Africa
+Ethiopia,ET,Africa,9.1450,40.4897,Addis Ababa,8.9806,38.7578,Eastern Africa
+India,IN,Asia,20.5937,78.9629,New Delhi,28.6139,77.2090,Southern Asia
+China,CN,Asia,35.8617,104.1954,Beijing,39.9042,116.4074,Eastern Asia
+Japan,JP,Asia,36.2048,138.2529,Tokyo,35.6762,139.6503,Eastern Asia
+South Korea,KR,Asia,35.9078,127.7669,Seoul,37.5665,126.9780,Eastern Asia
+Indonesia,ID,Asia,-0.7893,113.9213,Jakarta,-6.2088,106.8456,South-Eastern Asia
+Saudi Arabia,SA,Asia,23.8859,45.0792,Riyadh,24.7136,46.6753,Western Asia
+Iran,IR,Asia,32.4279,53.6880,Tehran,35.6892,51.3890,Southern Asia
+Australia,AU,Oceania,-25.2744,133.7751,Canberra,-35.2809,149.1300,Australia and New Zealand
+New Zealand,NZ,Oceania,-40.9006,174.8860,Wellington,-41.2866,174.7756,Australia and New Zealand
+Colombia,CO,South America,4.5709,-74.2973,Bogotá,4.7110,-74.0721,Northern South America
+Peru,PE,South America,-9.1900,-75.0152,Lima,-12.0464,-77.0428,Western South America
+Chile,CL,South America,-35.6751,-71.5430,Santiago,-33.4489,-70.6693,Southern South America
+Norway,NO,Europe,60.4720,8.4689,Oslo,59.9139,10.7522,Northern Europe
+Sweden,SE,Europe,60.1282,18.6435,Stockholm,59.3293,18.0686,Northern Europe
+Poland,PL,Europe,51.9194,19.1451,Warsaw,52.2297,21.0122,Eastern Europe
+Ukraine,UA,Europe,48.3794,31.1656,Kyiv,50.4501,30.5234,Eastern Europe
+Pakistan,PK,Asia,30.3753,69.3451,Islamabad,33.6844,73.0479,Southern Asia
+Thailand,TH,Asia,15.8700,100.9925,Bangkok,13.7563,100.5018,South-Eastern Asia
+Vietnam,VN,Asia,14.0583,108.2772,Hanoi,21.0278,105.8342,South-Eastern Asia
+Philippines,PH,Asia,12.8797,121.7740,Manila,14.5995,120.9842,South-Eastern Asia
+Iraq,IQ,Asia,33.2232,43.6793,Baghdad,33.3152,44.3661,Western Asia
+Greece,GR,Europe,39.0742,21.8243,Athens,37.9838,23.7275,Southern Europe
+Portugal,PT,Europe,39.3999,-8.2245,Lisbon,38.7223,-9.1393,Southern Europe
+Morocco,MA,Africa,31.7917,-7.0926,Rabat,34.0209,-6.8416,Northern Africa
+Algeria,DZ,Africa,28.0339,1.6596,Algiers,36.7538,3.0588,Northern Africa
+Ecuador,EC,South America,-1.8312,-78.1834,Quito,-0.1807,-78.4678,Western South America
+Venezuela,VE,South America,6.4238,-66.5897,Caracas,10.4806,-66.9036,Northern South America
+Netherlands,NL,Europe,52.1326,5.2913,Amsterdam,52.3676,4.9041,Western Europe
+Belgium,BE,Europe,50.5039,4.4699,Brussels,50.8503,4.3517,Western Europe
+Switzerland,CH,Europe,46.8182,8.2275,Bern,46.9480,7.4474,Western Europe
+Austria,AT,Europe,47.5162,14.5501,Vienna,48.2082,16.3738,Central Europe
+Czechia,CZ,Europe,49.8175,15.4730,Prague,50.0755,14.4378,Central Europe
+Hungary,HU,Europe,47.1625,19.5033,Budapest,47.4979,19.0402,Central Europe
+Romania,RO,Europe,45.9432,24.9668,Bucharest,44.4268,26.1025,Eastern Europe
+Ghana,GH,Africa,7.9465,-1.0232,Accra,5.6037,-0.1870,Western Africa
+Senegal,SN,Africa,14.4974,-14.4524,Dakar,14.7167,-17.4677,Western Africa
+Tanzania,TZ,Africa,-6.3690,34.8888,Dodoma,-6.1620,35.7516,Eastern Africa
+Uganda,UG,Africa,1.3733,32.2903,Kampala,0.3476,32.5825,Eastern Africa
+Ireland,IE,Europe,53.1424,-7.6921,Dublin,53.3498,-6.2603,Northern Europe
+Iceland,IS,Europe,64.9631,-19.0208,Reykjavik,64.1466,-21.9426,Northern Europe
+Finland,FI,Europe,61.9241,25.7482,Helsinki,60.1699,24.9384,Northern Europe
+Denmark,DK,Europe,56.2639,9.5018,Copenhagen,55.6761,12.5683,Northern Europe
+Malaysia,MY,Asia,4.2105,101.9758,Kuala Lumpur,3.1390,101.6869,South-Eastern Asia
+Singapore,SG,Asia,1.3521,103.8198,Singapore,1.3521,103.8198,South-Eastern Asia
+Sri Lanka,LK,Asia,7.8731,80.7718,Sri Jayawardenepura Kotte,6.9147,79.9733,Southern Asia
+Nepal,NP,Asia,28.3949,84.1240,Kathmandu,27.7172,85.3240,Southern Asia
+Bangladesh,BD,Asia,23.6850,90.3563,Dhaka,23.8103,90.4125,Southern Asia
+United Arab Emirates,AE,Asia,23.4241,53.8478,Abu Dhabi,24.4539,54.3773,Western Asia
+Qatar,QA,Asia,25.3548,51.1839,Doha,25.2854,51.5310,Western Asia
+Israel,IL,Asia,31.0461,34.8516,Jerusalem,31.7683,35.2137,Western Asia
+Jordan,JO,Asia,30.5852,36.2384,Amman,31.9539,35.9106,Western Asia
+Lebanon,LB,Asia,33.8547,35.8623,Beirut,33.8938,35.5018,Western Asia
+Kazakhstan,KZ,Asia,48.0196,66.9237,Astana,51.1605,71.4704,Central Asia
+Uzbekistan,UZ,Asia,41.3775,64.5853,Tashkent,41.2995,69.2401,Central Asia
+Azerbaijan,AZ,Asia,40.1431,47.5769,Baku,40.4093,49.8671,Western Asia
+Armenia,AM,Asia,40.0691,45.0382,Yerevan,40.1792,44.4991,Western Asia
+Georgia,GE,Asia,42.3154,43.3569,Tbilisi,41.7151,44.8271,Western Asia
+Uruguay,UY,South America,-32.5228,-55.7658,Montevideo,-34.9011,-56.1645,Southern South America
+Paraguay,PY,South America,-23.4425,-58.4438,Asunción,-25.2637,-57.5759,Southern South America
+Bolivia,BO,South America,-16.2902,-63.5887,Sucre,-19.0196,-65.2610,Central South America
+Guatemala,GT,North America,15.7835,-90.2308,Guatemala City,14.6349,-90.5069,Central America
+Honduras,HN,North America,15.2000,-86.2419,Tegucigalpa,14.0723,-87.1921,Central America
+El Salvador,SV,North America,13.7942,-88.8965,San Salvador,13.6929,-89.2182,Central America
+Costa Rica,CR,North America,9.7489,-83.7534,San José,9.9281,-84.0907,Central America
+Panama,PA,North America,8.5380,-80.7821,Panama City,8.9824,-79.5199,Central America
+Cuba,CU,North America,21.5218,-77.7812,Havana,23.1136,-82.3666,Caribbean
+Dominican Republic,DO,North America,18.7357,-70.1627,Santo Domingo,18.4861,-69.9312,Caribbean
+Haiti,HT,North America,18.9712,-72.2852,Port-au-Prince,18.5944,-72.3074,Caribbean
+Jamaica,JM,North America,18.1096,-77.2975,Kingston,17.9712,-76.7920,Caribbean
